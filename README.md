@@ -17,7 +17,7 @@ The interface should be a cyclic menu with 4 items and look like this:
     2 - Добавить контакт
     3 - Удалить контакт
     4 - Выход
-     Сделайте свой выбор:
+    Сделайте свой выбор:
 
 
 
